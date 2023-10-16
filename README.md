@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently learning **MongoDB, Express, Node**
 
-- 👨‍💻 All of my projects are available at [www.maderi.co.uk](www.maderi.co.uk)
+- 👨‍💻 All of my projects are available at (www.maderi.co.uk)
 
 - 📫 How to reach me **kostolansky.marek@gmail.com**
 
