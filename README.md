@@ -3,8 +3,6 @@
 
 - 🔭 I’m currently working on **Rental Income Calculator**
 
-- 🌱 I’m currently learning **MongoDB, Express, Node**
-
 - 👨‍💻 All of my projects are available at (www.maderi.co.uk)
 
 - 📫 How to reach me **kostolansky.marek@gmail.com**
